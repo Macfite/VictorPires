@@ -7,7 +7,7 @@
 Sou apaixonado por resolver problemas utilizando a programação.
 Sou um Ui Designer e Front-Ends Developer 💻
 
- :rocket:  &nbsp; Estou trabalhando na **Rocketseat**
+Atualmente Estou trabalhando na **Interativa**
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
  <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
