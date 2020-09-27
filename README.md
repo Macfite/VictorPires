@@ -4,8 +4,8 @@ Me chamo **Victor Pires**, trabalho como Designer e estou migrando para Front-En
 </br>
 Gosto muito de tecnologia, arte e um problema para resolver KKK
 
-Estou sempre aberto a colaborar em projetos com React ❤️
-</br>Se precisar de qualquer ajuda com flexbox, grid, Figma ou React, é só entrar em contato 😁
+Estou sempre aberto a colaborar em projetos com JavaScript❤️
+</br>Se precisar de qualquer ajuda com flexbox, grid, Figma ou JavaScript, é só entrar em contato 😁
 
 #### Contato:
     | victtor.piresdacosta@gmail.com
